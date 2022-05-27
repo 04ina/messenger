@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/o4ina/Desktop/messenger/SourceFiles/ConectingToPSQL.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+postgresql/libpq-fe.h
+-
+FunctionPrototypes.h
+/home/o4ina/Desktop/messenger/SourceFiles/FunctionPrototypes.h
+
+/home/o4ina/Desktop/messenger/SourceFiles/FunctionPrototypes.h
+

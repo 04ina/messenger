@@ -1,0 +1,2 @@
+/usr/bin/ar qc libAnotherfunction.a  CMakeFiles/Anotherfunction.dir/AdditionalFunction.c.o CMakeFiles/Anotherfunction.dir/ConectingToPSQL.c.o
+/usr/bin/ranlib libAnotherfunction.a

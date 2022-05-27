@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/messenger.dir/MainFunction.c.o  -o messenger  libAnotherfunction.a /usr/lib/x86_64-linux-gnu/libpq.so -lpthread 

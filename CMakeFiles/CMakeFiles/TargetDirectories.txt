@@ -1,0 +1,4 @@
+/home/o4ina/Desktop/messenger/CMakeFiles/CMakeFiles/rebuild_cache.dir
+/home/o4ina/Desktop/messenger/CMakeFiles/CMakeFiles/edit_cache.dir
+/home/o4ina/Desktop/messenger/CMakeFiles/CMakeFiles/messenger.dir
+/home/o4ina/Desktop/messenger/CMakeFiles/CMakeFiles/Anotherfunction.dir

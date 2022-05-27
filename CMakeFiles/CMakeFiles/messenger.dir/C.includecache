@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/o4ina/Desktop/messenger/SourceFiles/FunctionPrototypes.h
+
+/home/o4ina/Desktop/messenger/SourceFiles/MainFunction.c
+stdio.h
+-
+stdlib.h
+-
+FunctionPrototypes.h
+/home/o4ina/Desktop/messenger/SourceFiles/FunctionPrototypes.h
+stdbool.h
+-
+
